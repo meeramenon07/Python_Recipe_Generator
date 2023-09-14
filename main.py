@@ -1,0 +1,6 @@
+myFood = input("Name a food: ")
+myPlant = input("Name a type of plant : ")
+cookingMethod = input("Name a method of cooking: ")
+burnedFood = input("What word describes burned food? : ")
+diyItem = input("Name a DIY item : ")
+print("Here is my Recipe", myFood, "my favorite", myPlant, cookingMethod, burnedFood, "not sure of that ", diyItem," \n Menu \n Grilled Banana & Cheese with fresh curry leaf on a bed of ruined banana leaf." )
